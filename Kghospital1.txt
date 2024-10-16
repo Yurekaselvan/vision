@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>KG HOSPITAL</title>
+</head>
+<frameset rows="*,*,*,*,*">
+<frame name="logo" src="logo.html">
+<frameset cols="*,*,*,*">
+<frame name="about" src="ab.html">
+<frame name="vision" src="vision.html">
+<frame name="mission" src="mission.html">
+<frame name="doctors" src="doc.html">
+</frameset>
+<frame name="contact details" src="cd.html">
+<frame name="tele" src="tele.html">
+<frame name="centers in excellence" src="ce.html">
+</frameset>
+</html>
